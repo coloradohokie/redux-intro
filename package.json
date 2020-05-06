@@ -1,0 +1,8 @@
+{
+  "name": "js-3crpz2",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
